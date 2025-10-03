@@ -1,15 +1,15 @@
 # Hi there 👋, I'm Saurabh Gupta  
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 
-🚀 **Aspiring Data Engineer | Python Developer | Tech Enthusiast**  
+🚀 **Aspiring Data Engineer | Python Developer | Tech Enthusiast | React Developer**  
 
 💡 Passionate about building data-driven solutions, optimizing workflows, and solving real-world problems with code.  
 
 ---
 
 ## 🔧 Tech Stack  
-- **Languages**: Python, SQL  
+- **Languages**: Python, SQL, React  
 - **Databases**: MySQL, PostgreSQL, MongoDB, DynamoDB  
 - **Data Tools**: Pandas, NumPy, Matplotlib, Scikit-learn, Pentaho  
 - **Cloud & DevOps**: AWS (EC2, S3, RDS, Lambda, QuickSight), Azure IoT Hub  
