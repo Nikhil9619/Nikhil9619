@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Saurabh Gupta  
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="250" alt="Coding GIF"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF"/>
 
 🚀 **Aspiring Data Engineer | Python Developer | Tech Enthusiast**  
 
@@ -13,7 +13,7 @@
 - **Databases**: MySQL, PostgreSQL, MongoDB, DynamoDB  
 - **Data Tools**: Pandas, NumPy, Matplotlib, Scikit-learn, Pentaho  
 - **Cloud & DevOps**: AWS (EC2, S3, RDS, Lambda, QuickSight), Azure IoT Hub  
-- **Other**: Web Scraping, Flask, Power BI, Tableau, Advanced Excel  
+- **Other**: Web Scraping, Power BI, Tableau, Advanced Excel, Linux 
 
 ---
 
@@ -38,9 +38,9 @@
 ---
 
 ## 📫 Connect with Me  
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](www.linkedin.com/in/saurabh-gupta-66302b241)  
 - 🐙 [GitHub](#)  
-- ✉️ saurabh.gupta@email.com  
+- ✉️ saurabhgupta9619@email.com  
 
 ---
 
